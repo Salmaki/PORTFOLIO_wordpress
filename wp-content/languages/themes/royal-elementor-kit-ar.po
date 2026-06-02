@@ -1,0 +1,142 @@
+# Translation of Themes - Royal Elementor Kit in Arabic
+# This file is distributed under the same license as the Themes - Royal Elementor Kit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-31 05:18:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ar\n"
+"Project-Id-Version: Themes - Royal Elementor Kit\n"
+
+#. Theme Name of the theme
+#: style.css inc/admin/customizer/customizer.php:39
+#, gp-priority: high
+msgid "Royal Elementor Kit"
+msgstr "ملحق العناصر الملكي للإيليمينتور"
+
+#: inc/admin/activation/class-welcome-notice.php:472
+msgid "Something went wrong, contact support."
+msgstr "هناك خطأ. اتصل بخدمة الدعم"
+
+#: inc/admin/activation/class-welcome-notice.php:383
+msgid "Get Started with Templates Kit %s"
+msgstr "إبدأ مع ملحق العناصر %s"
+
+#: inc/admin/activation/class-welcome-notice.php:375
+msgid "Royal Elementor Kit comes with %s with various designs to pick from."
+msgstr "يقدم طقم العناصر الملكي للإيليمينتور %s بالتصميمات المتنوعة للاختيار"
+
+#: inc/admin/activation/class-welcome-notice.php:373
+msgid "Welcome to Royal Elementor Kit"
+msgstr "أهلا و سهلا في طقم العناصر الملكي للإيليمنتور"
+
+#: inc/admin/activation/class-welcome-notice.php:238
+#: inc/admin/activation/class-welcome-notice.php:273
+msgid "Failed to initialize or activate importer plugin."
+msgstr "فشل التنصيب أم التفعيل لأداة استيراد الملفات"
+
+#: inc/admin/activation/class-welcome-notice.php:206
+#: inc/admin/activation/class-welcome-notice.php:250
+#: inc/admin/activation/class-welcome-notice.php:285
+msgid "Insufficient permissions to install the plugin."
+msgstr "ليس لديك الترخيص لتنصيب الملحق"
+
+#: single.php:65
+msgid "By"
+msgstr "من قبل"
+
+#: page.php:32 single.php:43
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: index.php:63
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عفوا, لا توجد النتائج لبحثك. حاول مرة أخرى باستخدام الكلمات الدليلية المختلفة من فضلك"
+
+#: index.php:62
+msgid "Nothing Found!"
+msgstr "لا توجد النتائج!"
+
+#: index.php:46
+msgid "read more"
+msgstr "إقرأ المزيد"
+
+#: index.php:41 single.php:28
+msgid "Comments"
+msgstr "تعليقات"
+
+#: index.php:41 single.php:28
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: header.php:39
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "انتقل إلى المحتوى"
+
+#: functions.php:35
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#. translators: %1$s: theme name, %2$s link, %3$s theme author
+#: footer.php:10
+msgid "%1$s Theme by <a href=\"%2$s\">%3$s.</a>"
+msgstr "%1$s قالب من قبل <a href=\"%2$s\">%3$s.</a>"
+
+#: comments.php:44
+msgid "Post Comment"
+msgstr "نشر التعليق"
+
+#: comments.php:43
+msgid "Comment"
+msgstr "التعليق"
+
+#: comments.php:42
+msgid "Leave a Reply"
+msgstr "رد على التعليق"
+
+#: comments.php:30
+msgid "Newer Comments"
+msgstr "التعليقات الجديدة"
+
+#: comments.php:26
+msgid "Older Comments"
+msgstr "التعليقات القديمة"
+
+#: comments.php:12
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#: comments.php:12
+msgid "One Comment"
+msgstr "تعليق واحد"
+
+#: comments.php:12 index.php:41 single.php:28
+msgid "0 Comments"
+msgstr "لا توجد التعليقات"
+
+#: 404.php:8
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أننا لا نستطيع العثور على ما تبحث عنه. ربما قد يساعدك البحث."
+
+#: 404.php:5
+msgid "Page not found!"
+msgstr "الصفحة غير موجودة!"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://royal-elementor-addons.com/"
+msgstr "/https://royal-elementor-addons.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "WP Royal"
+msgstr "WP Royal"
